@@ -50,7 +50,11 @@ export default class StoreOhosPlugin implements FlutterPlugin, MethodCallHandler
         return
       }
       if (this.context != null) {
-        this.openMarket(this.context, appId)
+        try {
+          this.openMarket(this.context, appId)
+        } catch (ex) {
+          result.success(false)
+        }
       }
       result.success(true)
     } else {

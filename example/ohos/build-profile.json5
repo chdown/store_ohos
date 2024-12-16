@@ -3,13 +3,13 @@
     "signingConfigs": [
       {
         "material": {
-          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\default_ohos_TyXMsUgA-pf8W8Hx254YgecubErHEPtA4LHTWY1vk_8=.cer",
+          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\default_ohos_TyXMsUgA-pf8W8Hx254YgecubErHEPtA4LHTWY1vk_8\u003d.cer",
           "storePassword": "0000001ABD8E2E615676B604F8AC1B9663D5229D2014340DD019E0B38709044B9E500DAFB6F64F9B8344",
           "keyAlias": "debugKey",
           "keyPassword": "0000001A95257D670B716D7B3D2AF1F1C7B1EC0F4180E65ACFA61BDEFC889A432C5F5F5142C0A3FA7BE9",
-          "profile": "C:\\Users\\Administrator\\.ohos\\config\\default_ohos_TyXMsUgA-pf8W8Hx254YgecubErHEPtA4LHTWY1vk_8=.p7b",
+          "profile": "C:\\Users\\Administrator\\.ohos\\config\\default_ohos_TyXMsUgA-pf8W8Hx254YgecubErHEPtA4LHTWY1vk_8\u003d.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\default_ohos_TyXMsUgA-pf8W8Hx254YgecubErHEPtA4LHTWY1vk_8=.p12"
+          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\default_ohos_TyXMsUgA-pf8W8Hx254YgecubErHEPtA4LHTWY1vk_8\u003d.p12"
         },
         "name": "default",
         "type": "HarmonyOS"
