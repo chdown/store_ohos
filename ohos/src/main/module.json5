@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "store_ohos",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

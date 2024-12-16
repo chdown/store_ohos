@@ -1,0 +1,12 @@
+{
+  "license": "",
+  "author": "",
+  "name": "entry",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "integration_test": "file:../har/integration_test.har",
+    "store_ohos": "file:../har/store_ohos.har"
+  }
+}
