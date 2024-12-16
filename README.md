@@ -13,7 +13,7 @@
 ```yaml
 store_ohos: 
   git:
-    url: https://gitee.com/chdown/store_ohos.git
+    url: https://github.com/chdown/store_ohos.git
     ref: master
 ```
 
